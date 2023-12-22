@@ -3,7 +3,7 @@
 <pre>
 
 //Repository  
-git init                                       //Initialize a new Git repo  
+git init                             //Initialize a new Git repo  
 git clone <repo-url>                           // Clone a repo from a URL   
 
 //Basics  
