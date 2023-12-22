@@ -3,7 +3,7 @@
 //Repository  
 git init                             //Initialize a new Git repo  
 git clone <repo-url>                 // Clone a repo from a URL   
-
+a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a
 //Basics  
 git status                          //Show changes status   
 git add <file>                      //Add change to staging   
