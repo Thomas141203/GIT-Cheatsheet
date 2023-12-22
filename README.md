@@ -14,7 +14,7 @@ git log                              //View commit history
 
 //Branching  
 git branch                           //List branches  
-git branch <branch-name>             //Create a new branch  
+git branch <branch-name>             //Create a new branch   
 git checkout <branch-name>           //Switch to a branch  
 git merge <branch-name>              //Merge changes from a branch  
 git branch -d <branch-name>          //Delete a branch  
